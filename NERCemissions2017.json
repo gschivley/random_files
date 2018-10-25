@@ -30,5 +30,9 @@
     {
         "value": 460,
         "NERCregion": "TRE"
+    },
+    {
+        "value": 345,
+        "NERCregion": "WECC"
     }
 ]
