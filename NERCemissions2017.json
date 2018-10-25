@@ -1,0 +1,34 @@
+[
+    {
+        "value": 410,
+        "NERCregion": "FRCC"
+    },
+    {
+        "value": 543,
+        "NERCregion": "MRO"
+    },
+    {
+        "value": 172,
+        "NERCregion": "NPCC"
+    },
+    {
+        "value": 460,
+        "NERCregion": "RFC"
+    },
+    {
+        "value": 423,
+        "NERCregion": "SERC"
+    },
+    {
+        "value": 486,
+        "NERCregion": "SPP"
+    },
+    {
+        "value": 436,
+        "NERCregion": "TRE"
+    },
+    {
+        "value": 460,
+        "NERCregion": "TRE"
+    }
+]
