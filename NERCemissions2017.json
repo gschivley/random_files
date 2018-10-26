@@ -1,38 +1,34 @@
 [
     {
-        "value": 410,
+        "value": 441,
         "NERCregion": "FRCC"
     },
     {
-        "value": 543,
+        "value": 585,
         "NERCregion": "MRO"
     },
     {
-        "value": 172,
+        "value": 214,
         "NERCregion": "NPCC"
     },
     {
-        "value": 460,
+        "value": 494,
         "NERCregion": "RFC"
     },
     {
-        "value": 423,
+        "value": 453,
         "NERCregion": "SERC"
     },
     {
-        "value": 486,
+        "value": 532,
         "NERCregion": "SPP"
     },
     {
-        "value": 436,
+        "value": 476,
         "NERCregion": "TRE"
     },
     {
-        "value": 460,
-        "NERCregion": "TRE"
-    },
-    {
-        "value": 345,
+        "value": 362,
         "NERCregion": "WECC"
     }
 ]
